@@ -19,7 +19,7 @@ import { Menu as IconMenu } from '@element-plus/icons-vue'
       <el-menu default-active="2" class="el-menu-vertical-demo">
         <el-menu-item index="2">
           <el-icon><icon-menu /></el-icon>
-          <span>生成随机数</span>
+          <span>生成随机数v1.0</span>
         </el-menu-item>
       </el-menu>
     </el-aside>
